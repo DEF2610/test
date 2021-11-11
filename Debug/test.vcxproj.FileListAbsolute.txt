@@ -1,0 +1,4 @@
+E:\++\test\test\Debug\test.exe
+E:\++\test\test\Debug\sqlite3.dll
+E:\++\test\test\Debug\ssh.dll
+E:\++\test\test\Debug\pthreadVC3d.dll

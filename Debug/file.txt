@@ -1,0 +1,9 @@
+127.0.0.1
+22
+user
+password
+/path/to/remotedir
+/path/to/localdir
+user_name
+password
+database_name
